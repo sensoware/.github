@@ -70,8 +70,8 @@ Here is the list of products. <br>
 </li>
 </ul>
 </li>
-<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228" role="none"><a href="https://www.sensoware.com/motorized-valves-and-actuators/" class="ct-menu-link" role="menuitem">All Motorized Valves and Actuators</a></li>		
-<li id="menu-item-674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-674" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Markets we serve<span class="ct-menu-badge">New</span></a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
+<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228" role="none"><a href="https://www.sensoware.com/motorized-valves-and-actuators/" class="ct-menu-link" role="menuitem">All Motorized Valves and Actuators</a> </li> 
+<li id="menu-item-674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-674" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Markets we serve<span class="ct-menu-badge"> New</span></a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
 <ul class="sub-menu" role="menu">
 	<li id="menu-item-4733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4733" role="none"><a href="https://www.sensoware.com/markets/agriculture/" class="ct-menu-link" role="menuitem">Agriculture</a></li>
 	<li id="menu-item-5291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5291" role="none"><a href="https://www.sensoware.com/markets/residential-buildings/" class="ct-menu-link" role="menuitem">Residential Buildings</a></li>
@@ -88,3 +88,4 @@ Here is the list of products. <br>
 </ul>
 </li>
 </ul></nav>
+
