@@ -4,7 +4,7 @@ We are a Manufacturer of Automatic Sanitaryware Products, Motorized Valves and A
 
 Here is the list of products. <br>
 
- <nav
+<nav
 	class="mobile-menu has-submenu"
 	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" data-submenu-dots="yes"	aria-label="Off Canvas Menu">
 	<ul id="menu-mobile-menu" role="menubar"><li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-650" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Products</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
@@ -13,11 +13,12 @@ Here is the list of products. <br>
 	<ul class="sub-menu" role="menu">
 		<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228" role="none"><a href="https://www.sensoware.com/sensor-taps/" class="ct-menu-link" role="menuitem">Sensor Taps</a></li>
 		<li id="menu-item-666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-666" role="none"><a href="#" class="ct-menu-link" role="menuitem">Sensor Tap with Soap Dispenser</a></li>
+		<li id="menu-item-1234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1234" role="none"><a href="https://www.sensoware.com/touchfree-drinking-water-dispenser/" class="ct-menu-link" role="menuitem">Touchfree Drinking Water Dispenser</a></li>
 		<li id="menu-item-1230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1230" role="none"><a href="https://www.sensoware.com/foot-operated-taps/" class="ct-menu-link" role="menuitem">Foot Operated Taps</a></li>
 		<li id="menu-item-5392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5392" role="none"><a href="https://www.sensoware.com/urinal-sensors/" class="ct-menu-link" role="menuitem">Urinal Sensors</a></li>
 		<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233" role="none"><a href="https://www.sensoware.com/automatic-toilet-flusher-kit/" class="ct-menu-link" role="menuitem">WC Flusher</a></li>
-		<li id="menu-item-1234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1234" role="none"><a href="https://www.sensoware.com/touchfree-drinking-water-dispenser/" class="ct-menu-link" role="menuitem">Touchfree Drinking Water Dispenser</a></li>
-		<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231" role="none"><a href="https://www.sensoware.com/automatic-soap-dispensers-sanitizer-dispensers/" class="ct-menu-link" role="menuitem">Sanitizer &amp; Soap Dispenser</a></li>
+		<li id="menu-item-6112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6112" role="none"><a href="https://www.sensoware.com/automatic-soap-dispenser/" class="ct-menu-link" role="menuitem">Automatic Soap Dispenser</a></li>
+		<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231" role="none"><a href="https://www.sensoware.com/automatic-hand-sanitizer-dispenser/" class="ct-menu-link" role="menuitem">Automatic Hand Sanitizer Dispenser</a></li>
 	</ul>
 </li>
 	<li id="menu-item-657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-657" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Motorized Ball Valves</a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
@@ -68,10 +69,11 @@ Here is the list of products. <br>
 		<li id="menu-item-5805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5805" role="none"><a href="https://www.sensoware.com/high-pressure-3-way-ball-valves-with-electric-actuator/" class="ct-menu-link" role="menuitem">High Pressure Hydraulic Ball Valve</a></li>
 	</ul>
 </li>
+	<li id="menu-item-5994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5994" role="none"><a href="https://www.sensoware.com/4-way-electric-actuator-ball-valves/" class="ct-menu-link" role="menuitem">4-Way Electric Actuator Ball Valves</a></li>
+	<li id="menu-item-5973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5973" role="none"><a href="https://www.sensoware.com/motorized-valves-and-actuators/" class="ct-menu-link" role="menuitem"><span class="ct-icon-container ct-left"><svg width="20" height="20" viewBox="0,0,512,512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z" /></svg></span>All Motorized Valves &#038; Actuators</a></li>
 </ul>
 </li>
-<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228" role="none"><a href="https://www.sensoware.com/motorized-valves-and-actuators/" class="ct-menu-link" role="menuitem">All Motorized Valves and Actuators</a> </li> 
-<li id="menu-item-674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-674" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Markets we serve<span class="ct-menu-badge"> New</span></a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
+<li id="menu-item-674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-674" role="none"><span class="ct-sub-menu-parent"><a href="#" class="ct-menu-link" role="menuitem">Markets we serve<span class="ct-menu-badge">New</span></a><button class="ct-toggle-dropdown-mobile" aria-label="Expand dropdown menu" aria-haspopup="true" aria-expanded="false" role="menuitem"><svg class="ct-icon toggle-icon-2" width="15" height="15" viewBox="0 0 15 15"><path d="M14.1,6.6H8.4V0.9C8.4,0.4,8,0,7.5,0S6.6,0.4,6.6,0.9v5.7H0.9C0.4,6.6,0,7,0,7.5s0.4,0.9,0.9,0.9h5.7v5.7C6.6,14.6,7,15,7.5,15s0.9-0.4,0.9-0.9V8.4h5.7C14.6,8.4,15,8,15,7.5S14.6,6.6,14.1,6.6z"/></svg></button></span>
 <ul class="sub-menu" role="menu">
 	<li id="menu-item-4733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4733" role="none"><a href="https://www.sensoware.com/markets/agriculture/" class="ct-menu-link" role="menuitem">Agriculture</a></li>
 	<li id="menu-item-5291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5291" role="none"><a href="https://www.sensoware.com/markets/residential-buildings/" class="ct-menu-link" role="menuitem">Residential Buildings</a></li>
@@ -88,4 +90,3 @@ Here is the list of products. <br>
 </ul>
 </li>
 </ul></nav>
-
